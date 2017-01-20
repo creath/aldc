@@ -1,0 +1,9 @@
+Building AladinsCoin
+
+See doc/readme-qt.rst for instructions on building AladinsCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AladinsCoin.
+
+See doc/build-*.txt for instructions on building AladinsCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AladinsCoin.
